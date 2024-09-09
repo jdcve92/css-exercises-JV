@@ -1,0 +1,21 @@
+
+.Odd{
+    background-color: #FF474C;
+    font-family: Verdana, DejaVu Sans, sans-Serif;
+
+}
+
+#Blue{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.special{
+    font-size: 24px;
+}
+
+#green{
+    background-color: #008000;
+    font-size: 24px;
+    font-weight:bold;
+}
