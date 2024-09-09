@@ -1,0 +1,22 @@
+.negro{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.amarillo{
+    background-color: #ffff00;
+}
+
+
+.gemelo{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+   
+/*
+.amarillo.negro{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+ */
+
